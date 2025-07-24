@@ -53,6 +53,7 @@ Currently pursuing **B.Tech in Information Technology** at **SNIST**, with a GPA
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sai-vamshidar-reddy-825388316)  
-- ✉️ [Email](mailto:vamshidharreddy045@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-vamshidar-reddy-825388316/)
+- ✉️ [Gmail](mailto:vamshidharreddy045@gmail.com)
+
 
