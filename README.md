@@ -29,16 +29,16 @@ Currently pursuing **B.Tech in Information Technology** at **SNIST**, with a GPA
 ## 💻 Tech Stack
 
 - **Languages**: Java, JavaScript, C  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js (learning)  
-- **Database**: DBMS concepts, MySQL (learning)
+- **Frontend**: HTML, CSS, JavaScript, React.js , EJS (learning)
+- **Backend**: Node.js, Express.js (learning)  
+- **Database**: MONGODB, MySQL (learning)
 
 ## 🚀 Projects
 
 ### [Student Dashboard](https://student-dashboard-vd9s.onrender.com/dashboard/)
 - Developed a tool for managing student data efficiently: registration, attendance, requests, and complaints  
 - Features: add, edit, delete student details dynamically  
-- **Stack**: HTML, CSS, JavaScript
+- **Stack**: HTML, CSS, JavaScript,Node.js, Express.js, MySQL
 
 ### Task Scheduler Web App
 - Designed a **web-based task scheduling tool** prioritizing tasks using **Min-Heap (Priority Queue)**  
@@ -48,8 +48,8 @@ Currently pursuing **B.Tech in Information Technology** at **SNIST**, with a GPA
 ## 🌱 What I’m Learning
 
 - Advanced **MERN stack development**  
-- Scalable system designs  
-- Core computer science fundamentals
+- Machine Learning  
+- Spring Boot(Basic)
 
 ## 📫 Connect with Me
 
