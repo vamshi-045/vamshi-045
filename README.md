@@ -16,40 +16,42 @@ Hi there, I'm **Sai Vamshidar Reddy**, an aspiring **Software Engineer** and **F
 
 - 🔭 Building **efficient software solutions** with real-world impact  
 - ⚡ Solving **Data Structures & Algorithms problems** on competitive programming platforms  
-- 🌱 Exploring **System Design** and scalable architectures
+- 🌱 Learning **System Design & Cloud fundamentals** to build scalable applications
 
-Currently pursuing **B.Tech in Information Technology** at **SNIST**, with a GPA of **8.73**.
+I recently completed my **B.Tech in Information Technology** from **SNIST**, with a GPA of **8.56**.
 
 ## 💡 Key Highlights
 
-- 🎯 **Competitive Programming**: Solved diverse DSA problems across multiple platforms  
+- 🎯 **Competitive Programming**: Solved 300+ DSA problems on LeetCode & CodeChef  
 - 🏆 **Tech Fest Organizer**: Managed fests attended by over 500 students  
-- 🤝 **Student Clubs**: Improved networking by **30%** through active participation
+- 🤝 **Student Clubs**: Actively particitipated in Students Clubs & Technical Communities
 
 ## 💻 Tech Stack
 
 - **Languages**: Java, JavaScript, C  
-- **Frontend**: HTML, CSS, JavaScript, React.js , EJS (learning)
-- **Backend**: Node.js, Express.js (learning)  
-- **Database**: MONGODB, MySQL (learning)
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Node.js, Express.js 
+- **Database**: MongoDB, MySQL, PostgreSQL
 
 ## 🚀 Projects
 
 ### [Student Dashboard](https://student-dashboard-vd9s.onrender.com/dashboard/)
-- Developed a tool for managing student data efficiently: registration, attendance, requests, and complaints  
-- Features: add, edit, delete student details dynamically  
-- **Stack**: HTML, CSS, JavaScript,Node.js, Express.js, MySQL
+- Developed a full-stack student management system to streamline attendance tracking, registration, requests, and complaint management.
+- Designed an intuitive dashboard providing quick access to attendance, study materials, library resources, and student services.
+- Built RESTful APIs using Node.js and Express.js for efficient data management and retrieval.
+- **Stack**: HTML, CSS, JavaScript, React, Node.js, Express.js, PostgreSQL
 
-### Task Scheduler Web App
-- Designed a **web-based task scheduling tool** prioritizing tasks using **Min-Heap (Priority Queue)**  
-- Enhanced lookup performance using **HashMaps** for fast retrieval  
-- Built interactive UI with HTML, CSS, and JavaScript
+### [Film Explorer]
+- Developed a full-stack web application for discovering, searching, and exploring movies with detailed information.
+- Implemented search and filter functionality to find movies by title, genre, and popularity.
+- Built a responsive and user-friendly interface for seamless movie browsing across devices.
+- **Stack**: React.js, Node.js, Express.js, MongoDB
 
 ## 🌱 What I’m Learning
 
 - Advanced **MERN stack development**  
-- Machine Learning  
-- Spring Boot(Basic)
+- Microsoft Azure  
+- Spring Boot
 
 ## 📫 Connect with Me
 
