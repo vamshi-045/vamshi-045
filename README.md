@@ -12,7 +12,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/saivamshidar)
 
 
-Hi there, I'm **Sai Vamshidar Reddy**, an aspiring **Software Engineer** and **Full Stack Developer** passionate about:
+Hi there, I'm **Sai Vamshidar Reddy**, a recent Information Technology graduate passionate about **Software Engineer** and **Full Stack Development**
 
 - 🔭 Building **efficient software solutions** with real-world impact  
 - ⚡ Solving **Data Structures & Algorithms problems** on competitive programming platforms  
@@ -46,6 +46,13 @@ I recently completed my **B.Tech in Information Technology** from **SNIST**, wit
 - Implemented search and filter functionality to find movies by title, genre, and popularity.
 - Built a responsive and user-friendly interface for seamless movie browsing across devices.
 - **Stack**: React.js, Node.js, Express.js, MongoDB
+
+### Optimized Domain-Specific Knowledge Retrieval Using Hybrid RAG Architecture
+- Developed an AI-powered knowledge retrieval system using a Hybrid RAG (Retrieval-Augmented Generation) architecture to deliver accurate, context-aware responses from domain-specific documents.
+- Implemented hybrid retrieval by combining semantic vector search with keyword-based search, improving the relevance and accuracy of retrieved information.
+- Built a document ingestion pipeline to process, chunk, and index PDFs and text documents into a vector database for efficient retrieval.
+- Integrated Large Language Models (LLMs) with LangChain to generate natural language responses based on retrieved context.
+- **Stack**: React.js, Python (FastAPI), FAISS, Sentence-Transformers, BM25Okapi, CrossEncoder, OpenAI GPT, PostgreSQL
 
 ## 🌱 What I’m Learning
 
